@@ -1,5 +1,6 @@
 # Predict-location
 다음으로 이동할 이동 경로를 예측합니다.
+예측한 이동 경로를 지도에 표시합니다.
 
 # LSTM.py
 (1) make_model : Creating a LSTM model
