@@ -3,7 +3,7 @@
 예측한 이동 경로를 지도에 표시합니다.
 
 # LSTM.py
-(1) make_model : Creating a LSTM model
+(1) make_model : Creating a LSTM model <br>
 (2) pred_route : Predict the next location to move to (using LSTM model)
 
 # make_map.py
